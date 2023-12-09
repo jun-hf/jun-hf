@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Jun! 
-I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextras)**. I have a background in Economics and Masters in Computer Science. Excited to leverage both of my skillsets to build technical soltuions for the world. 😄😄😄
+I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextras)**. I have a background in Economics and Masters in Computer Science.
 
 ### A few quick facts about me
 - 🔭 I am currently working on ...
