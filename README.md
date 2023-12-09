@@ -1,13 +1,10 @@
 ## Hi there 👋, I am Jun! 
-
 ### Quick intro...
 I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextras)**. I have a background in Economics and Masters in Computer Science. Excited to leverage both of my skillsets to build technical soltuions for the world. 😄😄😄
-
 ### A few quick facts about me
 - 🔭 I am currently working on ...
 - 🌱 I am currently mastering Typescript and becoming a great full stack software engineer
 - ⚡ Fun fact: On my free time, I will switch VScode to vim mode. 😂
-
 ### 🤖 I have experience in: 
 - Python: **[MovieAPI](https://github.com/jun-hf/MovieAPI)*: Built with Python, Djaongo, Docker, DjangoRest Framework
 - Machine learning
