@@ -9,13 +9,11 @@ I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextr
 - ⚡ Fun fact: On my free time, I will switch VScode to vim mode. 😂
 
 ### 🤖 I have experience in: 
-- Python:
-  - **[MovieAPI](https://github.com/jun-hf/MovieAPI)*: Built with Python, Djaongo, Docker, DjangoRest Framework
-- Machine learning:
-- Typescirpt
+- Python: **[MovieAPI](https://github.com/jun-hf/MovieAPI)*: Built with Python, Djaongo, Docker, DjangoRest Framework
+- Machine learning
+- Web: Typescirpt, Nodejs, React, CSS, HTML, Javascript
 - Java (OOP)
-- Nodejs
-- React, HTML, CSS, Javascript
+
 <!--
 **jun-hf/jun-hf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
