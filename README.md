@@ -1,5 +1,4 @@
 ## Hi there 👋, I am Jun! 
-### Quick intro...
 I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextras)**. I have a background in Economics and Masters in Computer Science. Excited to leverage both of my skillsets to build technical soltuions for the world. 😄😄😄
 
 ### A few quick facts about me
