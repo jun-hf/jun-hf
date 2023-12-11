@@ -2,7 +2,7 @@
 I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextras)**. I have a background in Economics (Warwick) and Masters in Computer Science (Kent).
 
 ### A few quick facts about me
-- 🔭 I am currently working on ...
+- 🔭 I am currently working on **[StockBackTest](https://github.com/jun-hf/BackTestStock)**
 - 🌱 I am currently mastering Typescript and becoming a great full stack software engineer
 - ⚡ Fun fact: On my free time, I will switch VScode to vim mode. 😂
 - 🤖 I have experience in: 
