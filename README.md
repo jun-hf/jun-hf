@@ -5,7 +5,7 @@ I am a **Software engineer** at **[HolidayExtras](https://github.com/holidayextr
 - 🔭 I am currently working on **[StockBackTest](https://github.com/jun-hf/BackTestStock)**
 - 🌱 I am currently mastering Typescript and becoming a great full stack software engineer
 - ⚡ Fun fact: On my free time, I will switch VScode to vim mode. 😂
-- 🤖 I have experience in: 
+- 🤖 Experiences: 
   - Python: **[MovieAPI](https://github.com/jun-hf/MovieAPI)**: Built with Python, Djaongo, Docker, DjangoRest Framework
   - Machine learning
   - Web: Typescirpt, Nodejs, React, CSS, HTML, Javascript
